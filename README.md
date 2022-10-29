@@ -2,6 +2,7 @@ Algumas informações sobre mim
 
 - 🔭 Atualmente buscando conhecimento em programação
 - 🌱 Em formação de Full Stack pela Labenu
+<br>
 
 
 <div>
